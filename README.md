@@ -95,7 +95,7 @@ For passenger seating arrangements on the train, the following must be considere
     - java.io.IOException
     - java.time.format.DateTimeFormatter
     - java.time.LocalDateTime
-    - javax.swing.JOpyionPane
+    - javax.swing.JOptionPane
     - org.ini4j.Ini (imported externally)
     - org.ini4j.Profile (imported externally)
 - 🌱 **Version Control:** Git
