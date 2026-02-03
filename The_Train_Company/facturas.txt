@@ -1,0 +1,129 @@
+
+[2026/02/01 20:57:36]--------
+Cristopher
+De estacion: Alajuela (0)
+Hacia estacion: Heredia (3)
+Cantidad Kilometros: 100
+Precio por kilometro: 100.0
+Precio total: 10000.0
+--------
+[2026/02/04 06:49:15]--------
+Brian
+De estacion: Alajuela (0)
+Hacia estacion: Heredia (3)
+Cantidad Kilometros: 100
+Precio por kilometro: 100.0
+Precio total: 10000.0
+--------
+[2026/02/12 04:52:15]--------
+Sands
+De estacion: San José (4)
+Hacia estacion: Limon (1)
+Cantidad Kilometros: 205
+Precio por kilometro: 100.0
+Precio total: 20500.0
+--------
+[2026/02/03 16:08:10]--------
+Cristopher
+De estacion: Alajuela (0)
+Hacia estacion: Heredia (3)
+Cantidad Kilometros: 100
+Precio por kilometro: 100.0
+Precio total: 10000.0
+--------
+[2026/02/16 12:46:10]--------
+Brenda
+De estacion: Heredia (3)
+Hacia estacion: Alajuela (0)
+Cantidad Kilometros: 195
+Precio por kilometro: 100.0
+Precio total: 19500.0
+--------
+[2026/02/20 09:24:10]--------
+66
+De estacion: Cartago (2)
+Hacia estacion: San José (4)
+Cantidad Kilometros: 80
+Precio por kilometro: 100.0
+Precio total: 8000.0
+--------
+[2026/02/03 17:52:24]--------
+Cristopher
+De estacion: Alajuela (0)
+Hacia estacion: Heredia (3)
+Cantidad Kilometros: 100
+Precio por kilometro: 100.0
+Precio total: 10000.0
+--------
+[2026/02/05 03:29:24]--------
+Teresita
+De estacion: Alajuela (0)
+Hacia estacion: San José (4)
+Cantidad Kilometros: 130
+Precio por kilometro: 100.0
+Precio total: 13000.0
+--------
+[2026/02/10 02:02:24]--------
+Melani
+De estacion: Heredia (3)
+Hacia estacion: Alajuela (0)
+Cantidad Kilometros: 195
+Precio por kilometro: 100.0
+Precio total: 19500.0
+--------
+[2026/02/05 20:20:11]--------
+Cristopher
+De estacion: Alajuela (0)
+Hacia estacion: Heredia (3)
+Cantidad Kilometros: 100
+Precio por kilometro: 100.0
+Precio total: 10000.0
+--------
+[2026/02/10 19:45:11]--------
+Melani
+De estacion: Heredia (3)
+Hacia estacion: Limon (1)
+Cantidad Kilometros: 235
+Precio por kilometro: 100.0
+Precio total: 23500.0
+--------
+[2026/02/12 19:54:11]--------
+Brenda
+De estacion: Heredia (3)
+Hacia estacion: Alajuela (0)
+Cantidad Kilometros: 195
+Precio por kilometro: 100.0
+Precio total: 19500.0
+--------
+[2026/02/18 15:59:11]--------
+Teresita
+De estacion: Alajuela (0)
+Hacia estacion: San José (4)
+Cantidad Kilometros: 130
+Precio por kilometro: 100.0
+Precio total: 13000.0
+--------
+[2026/03/03 03:39:11]--------
+Evelyn
+De estacion: Alajuela (0)
+Hacia estacion: Puntarenas (5)
+Cantidad Kilometros: 155
+Precio por kilometro: 100.0
+Precio total: 15500.0
+--------
+[2026/02/04 19:47:03]--------
+Cristopher
+De estacion: Alajuela (0)
+Hacia estacion: Puntarenas (5)
+Cantidad Kilometros: 155
+Precio por kilometro: 100.0
+Precio total: 15500.0
+--------
+[2026/02/11 08:56:03]--------
+Paola
+De estacion: Alajuela (0)
+Hacia estacion: San José (4)
+Cantidad Kilometros: 130
+Precio por kilometro: 100.0
+Precio total: 13000.0
+--------
