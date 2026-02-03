@@ -6,7 +6,7 @@ In addition to this, it needs a system that allows it to organize the passengers
 
 Regarding the route of the peripheral train, it must visit each of the stations located in each province, considering both distance and time. This must be done using a graph (using an adjacency matrix) represented as follows:
 
-Route graph (circular path):
+### Route graph (circular path):
 
 Puntarenas → Guanacaste
 - Distance: 100 km
