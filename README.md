@@ -58,33 +58,33 @@ For passenger seating arrangements on the train, the following must be considere
     - 📄 External libraries can be used to manage configuration files, such as ini files (flat files with KEY=VALUE format). The use of ini4j is recommended.
     - 🔒 The ini file will be read-only and will be accessed after the system starts.
     - The following files must be stored:
-        a. ♿ Number of rows per car WITH disability (default 1).
-        b. 👥 Number of rows in the car WITHOUT disability (default 2).
-        c. 💺 Number of seats in the row WITH disability (default 1).
-        d. 💺 Number of seats in the row WITHOUT disability (default 3).
-        e. 🏢 Company name.
-        f. ⏱️ Time in seconds that the train travels between stops (default 1 second).
-        g. 💰 Cost per kilometer traveled: 100 colons.
+        - ♿ Number of rows per car WITH disability (default 1).
+        - 👥 Number of rows in the car WITHOUT disability (default 2).
+        - 💺 Number of seats in the row WITH disability (default 1).
+        - 💺 Number of seats in the row WITHOUT disability (default 3).
+        - 🏢 Company name.
+        - ⏱️ Time in seconds that the train travels between stops (default 1 second).
+        - 💰 Cost per kilometer traveled: 100 colons.
     - 📂 The ini file will be stored in the root directory for modification.
 - 👤 **Passenger Administration**
     - ➕ The user must be able to add passengers according to their needs and characteristics.
     - 📋 The user must be able to list all passengers both at stations and in train cars.
     - Passenger data:
-        a. 🪪 First and last name.
-        b. 🎂 Age.
-        c. 📍 Origin station.
-        d. 🎯 Destination station.
-        e. ♿ Disabled YES/NO, using enum in Java.
-        f. 🔄 Status: IN_QUEUE/EN_WAY/COMPLETED.
+        - 🪪 First and last name.
+        - 🎂 Age.
+        - 📍 Origin station.
+        - 🎯 Destination station.
+        - ♿ Disabled YES/NO, using enum in Java.
+        - 🔄 Status: IN_QUEUE/EN_WAY/COMPLETED.
 - 🖥️ **Station and Train Car Visualization**
     - 🪟 The system must display both stations and train cars on a single screen.
     - 🔄 The screen must refresh according to train movement, by default every second.
     - For each station, the following must be displayed:
-        a. ⏳ Queues of passengers waiting to board (disabled and non-disabled), with their characteristics. Specify waiting times if space cannot be found for boarding.
-        b. 🧾 Passengers who have completed their journey, with their characteristics, including cost. Additionally, a text summary (log) must be displayed if de-stacking and re-stacking is necessary to process a passenger's exit.
+        - ⏳ Queues of passengers waiting to board (disabled and non-disabled), with their characteristics. Specify waiting times if space cannot be found for boarding.
+        - 🧾 Passengers who have completed their journey, with their characteristics, including cost. Additionally, a text summary (log) must be displayed if de-stacking and re-stacking is necessary to process a passenger's exit.
     - The train car must display:
-        a. 💺 Seating arrangement, showing passenger data.
-        b. 📍 Current status of its location (station).
+        - 💺 Seating arrangement, showing passenger data.
+        - 📍 Current status of its location (station).
     - 📢 Display the necessary messages on the console for each execution of the algorithms. For example, write the current train station, passengers who left the car, and passengers who entered the car.
 
 ## 🛠️ Technologies Used
