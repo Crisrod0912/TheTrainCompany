@@ -6,7 +6,35 @@ In addition to this, it needs a system that allows it to organize the passengers
 
 Regarding the route of the peripheral train, it must visit each of the stations located in each province, considering both distance and time. This must be done using a graph (using an adjacency matrix) represented as follows:
 
-![TheTrainCompany](Background.png)
+Route graph (circular path):
+
+Puntarenas → Guanacaste
+- Distance: 100 km
+- Time: 2 hours
+
+Guanacaste → Alajuela
+- Distance: 40 km
+- Time: 25 minutes
+
+Alajuela → Limón
+- Distance: 10 km
+- Time: 20 minutes
+
+Limón → Cartago
+- Distance: 50 km
+- Time: 1 hour
+
+Cartago → Heredia
+- Distance: 30 km
+- Time: 30 minutes
+
+Heredia → San José
+- Distance: 25 km
+- Time: 35 minutes
+
+San José → Puntarenas
+- Distance: 40 km
+- Time: 40 minutes
 
 The system must simulate the train's movement as shown in the previous image. At each station, a queue of passengers will form, which must wait to board the train until it arrives at the station. Once the train arrives at the station, the system must attend to each passenger in the queue and validate available spaces according to passenger requirements. The use of wires is required to sum the train's movement at each station.
 
